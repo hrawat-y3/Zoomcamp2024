@@ -3,13 +3,13 @@
 ## week 1
 
 ### tools
-Docker
-Codespace
-Postgres Db
-Pgcli
-Pgadmin
-sqlalchemy
-docker network
+- Docker
+- Codespace
+- Postgres Db
+- Pgcli
+- Pgadmin
+- sqlalchemy
+- docker network
 
 #### Docker
 Run contained applications on any OS. Create and run containers. Used for running postgress DB on host machine, running pgadmin (an interface for working with postgress data). Docker network is used to launch both above containers together and create a network between them so the pgadmin can access pgDB.
